@@ -15,6 +15,13 @@ Our primary focus at Biograph is building useful and delightful products. We aim
 - You'll be sharing your screen while writing code.
 - Feel free to use whatever tooling you are comfortable with for this interview. 
 
+## Use of AI-based coding assistance
+- At the start of the interview: Let your interviewer know if you plan to use AI tools.
+* Expect to explain your work:
+  - Before coding: Outline your approach, trade-offs, and expected outcomes.
+  - After coding: Walk through the solution, review AI-generated code, and iterate if needed.
+* No penalty for opting out: Choosing not to use AI is completely fine—your problem-solving skills and technical insight will remain the focus of evaluation.
+
 ## Setting up the application
 ```
 cd calendar-frontend-interview
